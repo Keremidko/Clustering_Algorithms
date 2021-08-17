@@ -1,4 +1,4 @@
-Personal implementation of clustering algorithms.
+Implementation of clustering algorithms.
 
 Visualisation included
 
